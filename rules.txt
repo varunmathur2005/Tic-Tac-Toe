@@ -1,0 +1,12 @@
+
+=============================================================================================================
+Rules to play tic-tac-toe game:
+=============================================================================================================
+1). The purpose of playing Tic-Tac-Toe is to win by getting 3 of your marks (either X or O) in a straight line.
+    The straight line can run diagonally, vertically, or horizontally.
+2). Each player chooses a mark and takes turns to place them on the grid.
+3). Players take turns to place their marks in an attempt to get a continuous line of 3 cells.
+4). The game is over when a player gets a continuous line of 3, or the 9-square grid is full.
+5). The player who is given X as their mark, always moves first.
+=============================================================================================================
+=============================================================================================================
