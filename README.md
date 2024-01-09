@@ -1,6 +1,5 @@
 # Tic-Tac-Toe
 TIC-TAC-TOE GAME
-    #### Video Demo: <https://youtu.be/mJfWSZYPj0M>
     #### Description:
     My project is based on a classic game which was an integral part of my childhood, namely ,the tic-tac-toe game.
     A simplistic game usually played using spare paper and pencil with our friends. I have created a copy of the tic-tac-toe game
