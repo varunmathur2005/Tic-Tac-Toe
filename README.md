@@ -4,7 +4,7 @@ TIC-TAC-TOE GAME
     #### Description:
     My project is based on a classic game which was an integral part of my childhood, namely ,the tic-tac-toe game.
     A simplistic game usually played using spare paper and pencil with our friends. I have created a copy of the tic-tac-toe game
-    in  python using sys, random and fontstyle modules. It is playable through the command line.
+    in  python and SQL using sys, random, time, datetime, mysql.connector and fontstyle modules. It is playable through the command line.
     The purpose of playing Tic-Tac-Toe is to win by getting 3 of your marks (either X or O) in a straight line.
     The straight line can run diagonally, vertically, or horizontally.
 
@@ -16,8 +16,10 @@ TIC-TAC-TOE GAME
 
     The game starts of by welcoming the user and asking them to input one the following choices:
     --If the user inputs 1 a new game starts.
-    --If the user inputs 2 a python read from a text file (rules.txt) which contains the rules of the game.
-    --If the user inputs 3 the game exits using sys.exit() and displays a message i.e. thanking the user for playing the game.
+    --If the user inputs 2 a text file (rules.txt) which contains the rules of the game is displayed.
+    --If the user inputs 3 a text file (RECORD.TXT) which contains the summary of the previous game is displayed.
+    --If the user inputs 4 the summaries of the games played which are stored in the mySQL database are loaded.
+    --If the user inputs 5 the game exits using sys.exit() and displays a message i.e. thanking the user for playing the game.
 
         Working / Logic behind the game:
     On selecting new game the user is prompted with a choice of either selecting player v/s player mode or player v/s computer mode.
