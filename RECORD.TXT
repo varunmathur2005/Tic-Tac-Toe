@@ -1,0 +1,5 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2024-01-08 | Match Number: 1
+Result: PLAYER 2 WINS!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Total number of matches played: 1
