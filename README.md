@@ -16,11 +16,17 @@ TIC-TAC-TOE GAME
 
     The game starts of by welcoming the user and asking them to input one the following choices:
     --If the user inputs 1 a new game starts.
+<img width="417" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/8793074f-8ad5-43d3-8bf2-089146bee643">
+
     --If the user inputs 2 a text file (rules.txt) which contains the rules of the game is displayed.
 <img width="835" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/f5246280-8166-4260-8fea-62c4250b31d7">
 
     --If the user inputs 3 a text file (RECORD.TXT) which contains the summary of the previous game is displayed.
+<img width="417" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/38d39359-c0c4-413d-b8b0-8b9d614638ce">
+    
     --If the user inputs 4 the summaries of the games played which are stored in the mySQL database are loaded.
+<img width="540" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/f484d155-10d4-445c-8763-551d18f1bc71">
+
     --If the user inputs 5 the game exits using sys.exit() and displays a message i.e. thanking the user for playing the game.
 
         Working / Logic behind the game:
