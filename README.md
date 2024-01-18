@@ -17,7 +17,7 @@ TIC-TAC-TOE GAME
     The game starts of by welcoming the user and asking them to input one the following choices:
     --If the user inputs 1 a new game starts.
     --If the user inputs 2 a text file (rules.txt) which contains the rules of the game is displayed.
-    <img width="835" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/f5246280-8166-4260-8fea-62c4250b31d7">
+<img width="835" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/f5246280-8166-4260-8fea-62c4250b31d7">
 
     --If the user inputs 3 a text file (RECORD.TXT) which contains the summary of the previous game is displayed.
     --If the user inputs 4 the summaries of the games played which are stored in the mySQL database are loaded.
