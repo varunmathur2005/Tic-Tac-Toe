@@ -30,6 +30,10 @@ TIC-TAC-TOE GAME
     --If the user inputs 5 the game exits using sys.exit() and displays a message i.e. thanking the user for playing the game.
 
         Working / Logic behind the game:
+<img width="540" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/b1a9a11f-e0b7-4411-b151-895bcf21e182">
+<img width="540" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/572aca2d-12a5-4f45-9d1b-1f6b7b3674e0">
+
+
     On selecting new game the user is prompted with a choice of either selecting player v/s player mode or player v/s computer mode.
     IF THE USER INPUTS (1) hence selecting player v/s player mode following is carried out:
     --player 1 and player 2 are randomly assigned either X or O through the character function
