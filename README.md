@@ -11,6 +11,7 @@ TIC-TAC-TOE GAME
     command line. This in turn makes the game look more appealing and exciting.
     The random module is used for assigning users their characters randomly.
     The sys module is used for exiting from the program.
+<img width="241" alt="image" src="https://github.com/varunmathur2005/Tic-Tac-Toe/assets/130909000/6a2401c8-23dc-4919-b823-349b2891ac8e">
 
 
     The game starts of by welcoming the user and asking them to input one the following choices:
